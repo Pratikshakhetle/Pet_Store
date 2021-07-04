@@ -1,0 +1,21 @@
+.center{
+    text-align: center;
+  
+}
+h1{
+font-size: xx-large;
+background-color:rgba(255, 255, 0, 0.363);
+border-style:double;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+
+.right{
+text-align: right;
+border-style: outset;
+    padding-right: 20px;
+   padding-left: 50px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold; font-size: 10px;
+  
+}
